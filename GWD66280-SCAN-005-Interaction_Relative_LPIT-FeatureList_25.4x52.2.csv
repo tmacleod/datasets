@@ -1,0 +1,3 @@
+ML_DefectID_s7,ML_AxDist_s7,ML_AxLength_s7,ML_AxWidth_s7,ML_MaxDepthPer_s7,ML_FailurePressure_s7,ML_AvgDepth_s7,ML_Orient_s7,ML_AvgDepthPer_s7,ML_MaxDepth_s7,ML_MinRemWall_s7,ML_FactorSafety_s7,ML_FailurePressType_s7,ML_DepthMeasured_s7,ML_CorrosionType_s7,ML_LocThruWall_s7,ML_FullCirc_s7,ML_RefGW_s7,ML_ScanID_s7,ML_AcWallThickness_s7,ML_ILI_DefectID_s7,ML_AssocDefectID_s7,ML_DefectStatus_s7
+CLS-001,11.028,146.00,26.00,18.51,9324.0,1.100,99.5,12.64,1.610,7.090,1.51,EFF. AREA,Laser,CORROSION - Pitting,External,No,66280,SCAN-005,8.700,,,RECOAT
+DMA-002,11.448,450.00,52.00,54.75,7440.0,2.550,99.3,29.31,4.763,3.937,1.21,EFF. AREA,Laser,CORROSION - Pitting,External,No,66280,SCAN-005,8.700,,,RECOAT
